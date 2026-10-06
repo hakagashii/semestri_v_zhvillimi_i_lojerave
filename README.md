@@ -3,9 +3,11 @@
 ## PBT 1 | Java 2
 
 ### Ekipi
-- Studenti 1: __________________
-- Studenti 2: __________________
-- Studenti 3: __________________
+- Studenti 1: Haka Gashi
+- Studenti 2: Anduena Zogaj
+- Studenti 3: Blearta Kodraliu
+- Studenti 4: Gent Halabaku
+
 
 ## Pershkrimi i projektit
 **Escape Room: The Locked Lab** eshte nje loje logjike ku lojtari ndodhet i mbyllur ne nje laborator virtual dhe duhet te zgjidhe nje seri sfidash per te dale para se t'i perfundoje koha ose tentimet.
@@ -181,11 +183,3 @@ Te ndertojme nje loje te vogel por funksionale qe demonstron:
 - validim;
 - struktura te dhenash;
 - bashkepunim ne GitHub.
-
-## Dokumentacioni
-- [Project Charter v0.1](docs/PROJECT_CHARTER_v0.1.md)
-- [Krahasimi i ideve](docs/IDEAS_COMPARISON.md)
-- [Raporti 3-minutesh](docs/WEEK_1_REPORT.md)
-- [Analiza e lojrave historike - Rabin 1.1](docs/HISTORICAL_GAMES_RABIN_1_1.md)
-- [Rolet - Java 1](docs/ROLES_WEEK_1.md)
-- [Checklist i dorezimit](docs/SUBMISSION_CHECKLIST.md)
