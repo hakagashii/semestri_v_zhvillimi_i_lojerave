@@ -442,4 +442,4 @@ Për PBT 2 në repository ruhen:
 - Project Charter v0.2;
 - shënimi mbi transferimin e mësimit nga Serious/Educational Game.
 
-Ndryshimet ruhen në repository dhe dokumentohen përmes commit-it të PBT 2.
+
